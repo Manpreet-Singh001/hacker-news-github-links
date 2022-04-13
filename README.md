@@ -1,6 +1,6 @@
 Simple web-scraper that returns a list of github repositories featured on hacker news.
 
-## Install
+## Installation
 
 ```bash
 npm install
