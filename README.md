@@ -1,5 +1,13 @@
-returns a list of github repositories featured on hacker news.
+Simple web-scraper that returns a list of github repositories featured on hacker news.
 
-# Install
-> npm install
-> node app.js
+## Install
+
+```bash
+npm install
+node app.js
+```
+
+## Usage
+```bash
+node app.js
+```
